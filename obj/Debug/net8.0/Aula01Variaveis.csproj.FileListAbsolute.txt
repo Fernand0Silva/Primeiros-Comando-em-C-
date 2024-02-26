@@ -1,0 +1,42 @@
+D:\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.exe
+D:\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.deps.json
+D:\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.runtimeconfig.json
+D:\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.dll
+D:\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.pdb
+D:\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.AssemblyInfoInputs.cache
+D:\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.AssemblyInfo.cs
+D:\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.csproj.CoreCompileInputs.cache
+D:\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.dll
+D:\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\refint\Aula01Variaveis.dll
+D:\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.pdb
+D:\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.genruntimeconfig.cache
+D:\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\ref\Aula01Variaveis.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.exe
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.deps.json
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.runtimeconfig.json
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.pdb
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.AssemblyInfoInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.AssemblyInfo.cs
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\refint\Aula01Variaveis.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.pdb
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.genruntimeconfig.cache
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\2DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\ref\Aula01Variaveis.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.AssemblyInfoInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.AssemblyInfo.cs
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\refint\Aula01Variaveis.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.pdb
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.exe
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.deps.json
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.runtimeconfig.json
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.dll
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\bin\Debug\net8.0\Aula01Variaveis.pdb
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\Aula01Variaveis.genruntimeconfig.cache
+C:\Users\luizf\OneDrive\Documentos\Área de Trabalho\2° Modulo DS\DS\LuizFlavia\DS\Aula01Variaveis\obj\Debug\net8.0\ref\Aula01Variaveis.dll
